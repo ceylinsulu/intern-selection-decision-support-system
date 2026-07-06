@@ -16,3 +16,8 @@ Bu proje, stajyer adaylarının değerlendirilmesi süreçlerini optimize etmek 
 * Vanilla JavaScript
 * Chart.js (Veri Görselleştirme)
 * Google Fonts (Outfit, DM Mono, DM Serif Display)
+
+* 🚀 Projeyi Canlı İncele: https://ceylinsulu.github.io/intern-selection-decision-support-system/
+
+
+
